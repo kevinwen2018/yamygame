@@ -3,7 +3,7 @@
 Zerogrid - A Single Grid System for Responsive Design
 Author: Kimmy
 Version : 3.0
-
+响应网页的网格系统，作者kimmy
 */
 /* -------------------------------------------- */
 /* ------------------Grid System--------------- */ 
@@ -58,7 +58,8 @@ Version : 3.0
 .zerogrid .offset-3-6{margin-left: 50%;}
 .zerogrid .offset-4-6{margin-left: 66.66%;}
 .zerogrid .offset-5-6{margin-left: 83.33%;}
-
+/*多媒体规则,自动适用屏幕尺寸或者平台 
+*/
 @media only screen and (min-width: 960px) and (max-width: 1199px) {
 	.zerogrid{width:960px;}
 }
